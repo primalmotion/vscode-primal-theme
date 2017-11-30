@@ -1,0 +1,22 @@
+{
+    "name": "theme-primal",
+    "displayName": "theme-primal",
+    "description": "My custom theme",
+    "version": "0.0.1",
+    "publisher": "antoine",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "theme-primal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme-primal-color-theme.json"
+            }
+        ]
+    }
+}
