@@ -1,9 +1,9 @@
 {
-    "name": "theme-primal",
-    "displayName": "theme-primal",
-    "description": "My custom theme",
-    "version": "0.0.1",
-    "publisher": "antoine",
+    "name": "antoinemercadal.primal",
+    "displayName": "Primal",
+    "description": "Dark theme that is a mix of Space Grey, City Light and Ayu",
+    "version": "1.0.0",
+    "publisher": "Antoine Mercadal",
     "engines": {
         "vscode": "^1.18.0"
     },
@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "theme-primal",
+                "label": "Primal",
                 "uiTheme": "vs-dark",
-                "path": "./themes/theme-primal-color-theme.json"
+                "path": "./themes/theme.json"
             }
         ]
     }
