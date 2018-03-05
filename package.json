@@ -1,14 +1,22 @@
 {
-    "name": "antoinemercadal.primal",
+    "name": "primal",
     "displayName": "Primal",
     "description": "Dark theme that is a mix of Space Grey, City Light and Ayu",
     "version": "1.0.0",
-    "publisher": "Antoine Mercadal",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/primalmotion/vscode-primal-theme"
+    },
+    "publisher": "primalmotion",
     "engines": {
         "vscode": "^1.18.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "primal"
     ],
     "contributes": {
         "themes": [
