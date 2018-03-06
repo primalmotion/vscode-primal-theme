@@ -4,7 +4,7 @@
     "name": "Primal Theme",
     "colors": {
 
-        "focusBorder": "#1d252c",
+        "focusBorder": "#ffffff00",
         "foreground": "#aaa",
 
         "activityBar.background": "#1d252c",
@@ -87,7 +87,8 @@
 
         "editorWhitespace.foreground": "#3d4752",
 
-        "editorWidget.background": "#2d3644",
+        "editorWidget.background": "#1d252c",
+        "editorWidget.border": "#262e36",
 
         "extensionButton.prominentBackground": "#ffcc66aa",
         "extensionButton.prominentForeground": "#ffffff",
@@ -95,8 +96,8 @@
 
         "gitDecoration.ignoredResourceForeground": "#62737f77",
 
-        "input.background": "#2d3644",
-        "input.border": "#62737f4c",
+        "input.background": "#182024",
+        "input.border": "#262e36",
         "input.foreground": "#d9d7ce",
         "input.placeholderForeground": "#62737f8a",
 
@@ -107,7 +108,7 @@
         "inputValidation.infoBackground": "#1d252c",
         "inputValidation.infoBorder": "#5ccfe6",
         "inputValidation.warningBackground": "#1d252c",
-        "inputValidation.warningBorder": "#ffd580",
+        "inputValidation.warningBorder": "#ffcc66",
 
         "list.activeSelectionBackground": "#262e36",
         "list.activeSelectionForeground": "#d9d7ce",
@@ -268,7 +269,7 @@
             "name": "Function, Special Method, Block Level",
             "scope": "entity.name.function, keyword.other.special-method, meta.block-level",
             "settings": {
-                "foreground": "#FFD580"
+                "foreground": "#ffcc66"
             }
         },
         {
