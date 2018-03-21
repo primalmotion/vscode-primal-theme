@@ -3,10 +3,8 @@
     "displayName": "Primal",
     "description": "Dark theme that is a mix of Space Grey, City Light and Ayu",
     "icon": "assets/icon.png",
-    "files": [
-
-    ],
-    "version": "1.0.4",
+    "files": [],
+    "version": "1.0.5",
     "repository": {
         "type": "git",
         "url": "https://github.com/primalmotion/vscode-primal-theme"

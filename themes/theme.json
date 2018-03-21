@@ -41,12 +41,12 @@
         "editor.lineHighlightBackground": "#28313a",
         "editor.lineHighlightBorder": "#28313a",
         "editor.rangeHighlightBackground": "#28313a",
-        "editor.selectionBackground": "#ffffff36",
-        "editor.selectionHighlightBackground": "#FFFFFF10",
-        "editor.wordHighlightStrongBackground": "#ffffff29",
-        "editor.wordHighlightBackground": "#ffffff0F",
+        "editor.selectionBackground": "#FFFFFF40",
+        "editor.selectionHighlightBackground": "#FFFFFF15",
+        "editor.wordHighlightStrongBackground": "#FFFFFF15",
+        "editor.wordHighlightBackground": "#FFFFFF15",
 
-        "editorActiveLineNumber.foreground": "#aaa",
+        "editorActiveLineNumber.foreground": "#62737f",
 
         "editorBracketMatch.background": "#3d454d",
         "editorBracketMatch.border": "#4e6e99",
@@ -166,7 +166,7 @@
         "statusBar.debuggingBackground": "#2d3644",
         "statusBar.debuggingForeground": "#62737f",
         "statusBar.foreground": "#62737f",
-        "statusBar.noFolderBackground": "#2d3644",
+        "statusBar.noFolderBackground": "#1d252c",
 
         "statusBarItem.activeBackground": "#262e36",
         "statusBarItem.hoverBackground": "#262e36",
@@ -181,6 +181,7 @@
         "tab.unfocusedActiveForeground": "#d9d7ceaa",
         "tab.unfocusedInactiveForeground": "#62737f",
 
+        "terminal.border": "#262e36",
         "terminal.ansiBlack": "#262e36",
         "terminal.ansiBlue": "#36a3d9",
         "terminal.ansiBrightBlack": "#686868",
